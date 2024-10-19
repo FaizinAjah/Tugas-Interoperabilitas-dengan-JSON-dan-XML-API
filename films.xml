@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<films>
+  <film id="1">
+    <title>Inception</title>
+    <director>Christopher Nolan</director>
+  </film>
+  <film id="2">
+    <title>Spirited Away</title>
+    <director>Hayao Miyazaki</director>
+  </film>
+  <film id="3">
+    <title>The Godfather</title>
+    <director>Francis Ford Coppola</director>
+  </film>
+  <film id="4">
+    <title>Parasite</title>
+    <director>Bong Joon-ho</director>
+  </film>
+  <film id="5">
+    <title>The Dark Knight</title>
+    <director>Christopher Nolan</director>
+  </film>
+</films>
